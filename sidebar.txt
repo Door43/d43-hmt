@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmt:home|Door43 (hmt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmt|d43-hmt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmt/archive/master.zip|d43-hmt.zip]]
+
+**Recent Changes**
+{{changes>ns = hmt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmt|Ethnologue data]]
+
